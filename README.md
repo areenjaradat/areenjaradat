@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 [![Areenjaradat GitHub stats](https://github-readme-stats.vercel.app/api?username=areenjaradat&theme=dark&show_icons=true)](https://github.com/areenjaradat)
 
 
-[![Areenjaradat GitHub stats]:(https://github-readme-stats.vercel.app/api/pin/?username=areenjaradat&repo=github-readme-stats&cache_seconds=86400&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areenjaradat&theme=dark&show_icons=true)](https://github.com/areenjaradat)
